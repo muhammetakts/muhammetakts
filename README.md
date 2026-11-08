@@ -40,7 +40,6 @@ Kurumsal web platformlarının yönetimi, kullanıcı odaklı arayüz tasarımı
 | **Aday Öğrenci Web Portalı (2025)** | Bilgi mimarisi, UI/UX, arayüz geliştirme ve CMS entegrasyonu | [Web sitesi](https://aday.bezmialem.edu.tr) |
 | **Metroklima Kurumsal Web Sitesi (2024)** | Figma / HTML / CSS, responsive arayüz ve SEO altyapısı | [Web sitesi](https://metroklima.com) |
 
-> **Not:** Kurumsal çalışmalarda yalnızca paylaşım izni bulunan görsel, tasarım ve kod örnekleri portföye eklenmelidir.
 
 ## 💼 Deneyimden öne çıkanlar
 
